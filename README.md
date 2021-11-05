@@ -1,6 +1,6 @@
 ## FEW-SHOT KNOWLEDGE TRANSFER FOR FINE-GRAINED CARTOON FACE GENERATION
 
-![fig1](images\fig1.jpg)
+![fig1](./images/fig1.jpg)
 
 ### [Paper](https://confcats-event-sessions.s3.amazonaws.com/icme21/papers/439.pdf)
 
@@ -58,13 +58,13 @@ python test.py --dataset {folder_for_dataset} --model_path {path_to_model_ckpt} 
 
 ## Results
 
-![res1](.\images\res1.png)
+![res1](./images/res1.png)
 
-![res2](.\images\res2.png)
+![res2](./images/res2.png)
 
-![res3](.\images\res3.png)
+![res3](./images/res3.png)
 
-![res4](.\images\res4.png)
+![res4](./images/res4.png)
 
 ## Reference
 
