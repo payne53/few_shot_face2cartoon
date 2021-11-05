@@ -54,7 +54,7 @@ python test.py --dataset {folder_for_dataset} --model_path {path_to_model_ckpt} 
 
 ## Architecture
 
-![pip1](.\images\pip2.jpg)
+![pip1](./images/pip2.jpg)
 
 ## Results
 
@@ -68,5 +68,5 @@ python test.py --dataset {folder_for_dataset} --model_path {path_to_model_ckpt} 
 
 ## Reference
 
-Our codes refer to Project [Phoro2cartoon]([photo2cartoon/README_EN.md at master · minivision-ai/photo2cartoon · GitHub](https://github.com/minivision-ai/photo2cartoon/blob/master/README_EN.md))
+Our codes refer to Project [Photo2cartoon](https://github.com/minivision-ai/photo2cartoon)
 
